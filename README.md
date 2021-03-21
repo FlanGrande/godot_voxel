@@ -1,4 +1,4 @@
-Voxel Tools for Godot
+Voxel Tools for Godot (Flan's fork)
 =========================
 
 A C++ module for creating volumetric worlds in Godot Engine.
